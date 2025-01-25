@@ -1498,7 +1498,6 @@
 	(hierarchical_label "USB_DOWNSTREAM_D+"
 		(shape input)
 		(at 99.06 121.92 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1510,7 +1509,6 @@
 	(hierarchical_label "USB_DOWNSTREAM_D-"
 		(shape input)
 		(at 81.28 83.82 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1522,7 +1520,6 @@
 	(hierarchical_label "USB_DOWNSTREAM_D-"
 		(shape input)
 		(at 99.06 116.84 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1534,7 +1531,6 @@
 	(hierarchical_label "USB_DOWNSTREAM_D+"
 		(shape input)
 		(at 81.28 88.9 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
