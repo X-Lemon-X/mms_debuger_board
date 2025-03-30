@@ -13,7 +13,7 @@
 | Pin | Function | Description |
 |-----|----------|---------------------------------------------|
 | 1   | CAN1 L   | CAN 1 Low speed up to 1 Mb/s                |
-| 2   | CAN1 H   | CAN 1 High speed up to 5 Mb/s               |
+| 2   | CAN1 H   | CAN 1 High speed up to 1 Mb/s               |
 | 3   | GND      | 500mA                                       |
 | 4   | CAN2 L   | CAN 2 Low speed up to 5 Mb/s                |
 | 5   | CAN2 H   | CAN 2 High speed up to 5 Mb/s               |
